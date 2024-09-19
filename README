@@ -1,0 +1,17 @@
+# C Standard Library Header Files
+
+The following is a list of commonly used C standard library header files, each providing different categories of functions to facilitate various operations in C programming:
+
+| Header File       | Description                                 |
+|-------------------|---------------------------------------------|
+| `<assert.h>`      | Program assertion functions                 |
+| `<ctype.h>`       | Character type functions                    |
+| `<locale.h>`      | Localization functions                      |
+| `<math.h>`        | Mathematics functions                       |
+| `<setjmp.h>`      | Jump functions                              |
+| `<signal.h>`      | Signal handling functions                   |
+| `<stdarg.h>`      | Variable arguments handling functions        |
+| `<stdio.h>`       | Standard Input/Output functions             |
+| `<stdlib.h>`      | Standard Utility functions                  |
+| `<string.h>`      | String handling functions                   |
+| `<time.h>`        | Date and time functions                     |
