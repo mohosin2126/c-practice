@@ -42,10 +42,21 @@
 
 
 
+// #include<stdio.h>
+// int main()
+// {
+//     int i; 
+//     printf("size of the integer: %d",sizeof(i));
+//     return 0;
+// }
+
+// convert ascii value 
+
 #include<stdio.h>
-int main()
-{
-    int i; 
-    printf("size of the integer: %d",sizeof(i));
-    return 0;
+int main (){
+int num;
+printf("Enter Your Number here:");
+scanf("%d", &num);
+printf("The ascii value is : %c",num);
+return 0;
 }
