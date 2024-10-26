@@ -9,11 +9,8 @@ int main()
         scanf("%d", &a[i]);
     }
 
-    for (int i = 0; i < n; i++)
-    {
-
-        printf("%d", a[i]);
-    }
+    int lastNumber = a[n - 1];
+    printf("%d", lastNumber);
 
     return 0;
 }
