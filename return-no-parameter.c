@@ -8,7 +8,6 @@ int add()
 }
 int main()
 {
-
     const result = add();
     printf("%d",result);
     return 0;
